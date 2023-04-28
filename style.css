@@ -1,3 +1,5 @@
-header{
-    background: #341931
-}
+header{ background:#0abfbc; color:blue; display:flex;
+    justify-content: space-around;
+font-size: large;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    .cabecalho-imagem{ width: 100%;}
